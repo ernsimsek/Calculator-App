@@ -15,4 +15,4 @@ A sleek, responsive, and functional web-based calculator built with HTML5, CSS3,
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/ernsimsek/Calculator-App.git
