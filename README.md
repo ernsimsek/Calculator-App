@@ -11,7 +11,7 @@ A sleek, responsive, and functional web-based calculator built with HTML5, CSS3,
 * **Backspace & Clear:** Easy correction with a backspace button and a full clear (C) function.
 
 
-<img width="366" height="630" alt="Ekran görüntüsü 2026-02-02 180731" src="https://github.com/user-attachments/assets/ed032c83-9817-42c1-abc6-a4485b426433" />
+<img width="300" height="600" alt="Ekran görüntüsü 2026-02-02 180731" src="https://github.com/user-attachments/assets/ed032c83-9817-42c1-abc6-a4485b426433" />
 
 [Live Demo](https://ernsimsek.github.io/Calculator-App/)
 
